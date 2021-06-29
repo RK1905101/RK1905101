@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 
 Myself Radha :) <br>
-A passionate 3rd year student....😁✌🏻<br>
-Pursuing degree in Btech from KIIT University, Bhubneswar.<br>
-
+A passionate 3rd year engineering student....😁✌🏻<br>
+Pursuing degree in B.tech from KIIT University, Bhubneswar.<br>
+<br>
+And well, what about you!!😃
 
 
 <br>
@@ -45,6 +46,7 @@ Pursuing degree in Btech from KIIT University, Bhubneswar.<br>
      -->> Drawing n Sketching (Rarely now..🙃)<br>
      -->> Travelling (Waiting for corona go, go corona 😂)<br>
      -->> Songs+Memes+Animes (Can share them any time..😄)<br>
+     -->> And yess!! Tech Enthusiast too..🙄🙂
      
      
 
@@ -55,7 +57,7 @@ Pursuing degree in Btech from KIIT University, Bhubneswar.<br>
 
 ### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 --->>Devops tools(Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana etc)<br>
---->>Machine learning integrated with devops<br>
+--->>Machine learnings<br>
 --->>Flutter<br>
 --->>AWS and GCP Cloud<br>
 --->>Openshift<br>
@@ -77,6 +79,8 @@ Pursuing degree in Btech from KIIT University, Bhubneswar.<br>
  <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RK1905101&show_icons=true&theme=algolia" />
   
+     
+     
   <img alt="RK1905101's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RK1905101&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true" />
 
 
