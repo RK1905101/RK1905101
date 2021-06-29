@@ -53,7 +53,7 @@ Pursuing degree in Btech from KIIT University, Bhubneswar.<br>
 <br>
 <img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">
 
-### Have Hands on..(⊙_⊙;)
+### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 --->>Devops tools(Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana etc)<br>
 --->>Machine learning integrated with devops<br>
 --->>Flutter<br>
