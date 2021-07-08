@@ -57,7 +57,7 @@ And well, what about you!!😃
 
 ### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 --->>Devops tools(Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana etc)<br>
---->>Machine learnings<br>
+--->>Machine learning<br>
 --->>Flutter<br>
 --->>AWS and GCP Cloud<br>
 --->>Openshift<br>
