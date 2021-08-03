@@ -41,19 +41,19 @@ And well, what about you!!😃
 <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230">
 
 
-### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
--->> Photography (sometimes..😀)<br>
-     -->> Drawing n Sketching (Rarely now..🙃)<br>
-     -->> Travelling (Waiting for corona go, go corona 😂)<br>
-     -->> Songs+Memes+Animes (Can share them any time..😄)<br>
-     -->> And yess!! Tech Enthusiast too..🙄🙂
+<!--### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
+<!-- > Photography (sometimes..😀)<br>
+  <!--  > Drawing n Sketching (Rarely now..🙃)<br>
+ <!--    > Travelling (Waiting for corona go, go corona 😂)<br>
+  <!--   > Songs+Memes+Animes (Can share them any time..😄)<br>
+ <!--    > And yess!! Tech Enthusiast too..🙄🙂
      
      
 
+<!--<br>
 <br>
 <br>
-<br>
-<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">
+<img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  -->
 
 ### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 --->>Devops tools(Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana etc)<br>
