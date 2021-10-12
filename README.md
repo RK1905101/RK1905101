@@ -28,17 +28,16 @@ Here are some ideas to get you started:
 
 
 
-Myself Radha :) <br>
-A passionate 3rd year engineering student....😁✌🏻<br>
-Pursuing degree in B.tech from KIIT University, Bhubneswar.<br>
+Myself Radha ✌🏻<br>
+And currently I'm pursuing degree in B.tech from KIIT University, Bhubneswar.<br>
 <br>
-And well, what about you!!😃
+And well, what about you!! (‾◡◝)
 
 
 <br>
 <br>
 <br>
-<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> -->
 
 
 <!--### Hobbies <img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="60"> 
@@ -55,14 +54,13 @@ And well, what about you!!😃
 <br>
 <img align='left' src="https://media.giphy.com/media/JA6bbQKsEtWVB6ThBU/giphy.gif" width="290">  -->
 
-### Have Hands on.. <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
---->>Devops tools(Docker, Kubernetes, Jenkins, Ansible, Prometheus, Grafana etc)<br>
---->>Machine learning<br>
---->>Flutter<br>
---->>AWS and GCP Cloud<br>
---->>Openshift<br>
+### SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
+>>Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>
+>>Machine learning | Cloud <br>
+>>Bigdata | Hadoop<br>
+>>Cyber Security Enthusiast
 
-  <br>
+<br>
 <br>
 <br>
 <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="290">
