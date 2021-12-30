@@ -105,11 +105,11 @@ Here are some ideas to get you started:
 <a href="mailto:1905101@kiit.ac.in"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
      <br>
      
-<a href="https://www.instagram.com/rk.02116/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
+<!--<a href="https://www.instagram.com/rk.02116/"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
      <br>
      
 <a href="https://www.facebook.com/profile.php?id=100039798362107"><img height="40" src="https://github.com/RK1905101/RK1905101/blob/master/fb.png"></a>
-     <br>
+     <br>-->
      
 <a href="https://twitter.com/RK02116"><img height="30" src="https://github.com/RK1905101/RK1905101/blob/master/twitter.png"></a>
      <br>
