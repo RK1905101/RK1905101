@@ -157,7 +157,7 @@
 ☁️ I build and automate <b>deployment pipelines</b> that make development faster and more reliable<br>
 ☁️ I enjoy working with <b>cloud-native tools</b>  Docker, Kubernetes, AWS, and CI/CD systems<br>
 ☁️ Currently learning <b>backend development</b> to understand systems end-to-end<br>
-☁️ I love solving real problems through <b>automation, structure,</b> and <b>continuous learning</b><br>
+☁️ I am curious to solve real problems through <b>automation, structure,</b> and <b>continuous learning</b><br>
 <!--🌿 Motto: <i>“Automate what you can, simplify what you can’t.”</i>-->
   </div>
 </div>
@@ -170,7 +170,7 @@
   <tr>
     <td align="center" width="280px">
       <b> Learning 👩🏻‍🎓 </b><br>
-      <sub> Learning, exploring and working continuosly more on DevOps-Cloud and Backend Techs </sub>
+      <sub> Learning, exploring and working continuously more on DevOps-Cloud and Backend Techs </sub>
     </td>
     <!--
     <td align="center" width="280px">
