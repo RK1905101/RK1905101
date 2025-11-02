@@ -251,7 +251,7 @@
 🔸 Collaborated across teams for <b>release automation, performance tuning</b>, and <b>incident response</b>.<br>
 🔸 Passionate about <b>DevOps culture, cloud efficiency</b>, and <b>developer happiness</b> ☁️💙.-->
 
-☁️ 2+ years of hands on experience in Cloud & DevOps Engineering <br>
+☁️ 1.5+ years of hands on experience in Cloud & DevOps Engineering <br>
 ☁️ Skilled in automating CI/CD pipelines and deploying cloud native applications on AWS <br>
 ☁️ Hands on experience in backend development and AI driven web application <br>
 ☁️ Trained in DevOps tools, Docker, Jenkins, Kubernetes, Terraform, and Infrastructure as Code <br>
