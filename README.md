@@ -269,7 +269,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK1905101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="145px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK1905101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160px"/>
 </p>
 
 ---
