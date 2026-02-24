@@ -131,7 +131,7 @@
 
 <p align="center">
   <a href="https://github.com/RK1905101">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=700&color=9A4DFF&center=true&vCenter=true&width=600&lines=Heyya!+I'm+Radha+🙋🏻‍♀️;Senior+Software+Engineer+👩🏻‍🔬;Cloud-DevOps+Explorer+☁️;Learning+Backend+Magic+On+The+Way+🎇" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=700&color=9A4DFF&center=true&vCenter=true&width=600&lines=Heyya!+I'm+Radha+🙋🏻‍♀️;SRE+👩🏻‍🔬;Cloud-DevOps+Explorer+☁️;Learning+Backend+Magic+On+The+Way+🎇" alt="Typing Animation"/>
   </a>
 </p>
 
@@ -153,7 +153,7 @@
 
 <div align="center">
   <div align="left" style="display:inline-block; text-align:left; padding-left:25px; max-width:600px;">
-🙋🏻‍♀️ Hi! I'm <b>Radha</b> - a <b>Senior Software Engineer</b> exploring <b>Cloud & DevOps</b> technologies!<br>
+🙋🏻‍♀️ Hi! I'm <b>Radha</b> - a <b>SRE</b> exploring <b>Cloud & DevOps</b> technologies!<br>
 ☁️ I build and automate <b>deployment pipelines</b> that make development faster and more reliable<br>
 ☁️ I enjoy working with <b>cloud-native tools</b>  Docker, Kubernetes, AWS, and CI/CD systems<br>
 ☁️ Currently learning <b>backend development</b> to understand systems end-to-end<br>
